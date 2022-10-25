@@ -14,7 +14,8 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+dicfg
+*.eggst/
 downloads/
 eggs/
 .eggs/
@@ -25,8 +26,7 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
-*.egg
+.installed.
 MANIFEST
 
 # PyInstaller
